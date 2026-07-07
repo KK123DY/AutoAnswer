@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Android 的四大组件是什么？",
+    "answer": "Activity、Service、BroadcastReceiver、ContentProvider"
+  },
+  {
+    "question": "Jetpack Compose 是什么？",
+    "answer": "Android 的新一代 UI 框架"
+  },
+  {
+    "question": "中国首都是哪里？",
+    "answer": "北京"
+  },
+  {
+    "question": "1+1=",
+    "answer": "2"
+  }
+]
