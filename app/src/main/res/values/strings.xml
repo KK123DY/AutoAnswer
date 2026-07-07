@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">自动答题助手</string>
+    <string name="service_status_running">无障碍服务运行中</string>
+    <string name="service_status_stopped">无障碍服务未启动</string>
+    <string name="start_service">启动服务</string>
+    <string name="stop_service">停止服务</string>
+    <string name="scan_and_answer">扫描并答题</string>
+    <string name="question_bank">题库管理</string>
+    <string name="settings">设置</string>
+    <string name="import_bank">导入题库</string>
+    <string name="export_bank">导出题库</string>
+    <string name="add_question">添加题目</string>
+    <string name="question_hint">请输入题目</string>
+    <string name="answer_hint">请输入答案</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="floating_ball">悬浮球</string>
+    <string name="matching_mode">匹配模式</string>
+    <string name="exact_match">精确匹配</string>
+    <string name="substring_match">子串匹配</string>
+    <string name="click_delay">点击延迟（毫秒）</string>
+    <string name="log_title">运行日志</string>
+    <string name="no_questions">题库为空，请先导入题库</string>
+    <string name="service_channel_name">答题服务</string>
+    <string name="service_channel_desc">自动答题助手后台服务</string>
+    <string name="service_notification_text">正在后台运行</string>
+</resources>
